@@ -1,6 +1,9 @@
 # Covid-19-Tracker
 
-React App](https://github.com/facebook/create-react-app).
+(https://user-images.githubusercontent.com/107386096/190362378-da022313-6335-4a0a-956f-059b137b809f.png)
+
+React App](https://github.com![covid-meter-sample]
+/facebook/create-react-app).
 
 ## Available Scripts
 
