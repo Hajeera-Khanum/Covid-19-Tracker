@@ -1,6 +1,6 @@
 # Covid-19-Tracker
 
-(https://user-images.githubusercontent.com/107386096/190362378-da022313-6335-4a0a-956f-059b137b809f.png)
+![covid-meter-sample](https://user-images.githubusercontent.com/107386096/190362853-4a14bfac-7f9e-4391-9445-1f9e8fb8f9b7.png)
 
 React App](https://github.com![covid-meter-sample]
 /facebook/create-react-app).
